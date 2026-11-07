@@ -1,0 +1,6 @@
+{
+  "name": "UniPulse Student Resource Hub",
+  "description": "Unified academic notes repository, campus tech events & hackathons board, and real-time student notification portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
